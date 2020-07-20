@@ -1,6 +1,4 @@
 BMW
 Mercedes-Benz
 Porshe
-New York
-Virginia
-Florida
+Audi
